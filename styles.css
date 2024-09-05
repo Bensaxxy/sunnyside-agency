@@ -50,6 +50,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    padding: 10px;
 }
 
 .logo img {
@@ -153,7 +154,7 @@ body {
 }
 
 .hero-section {
-    margin-top: 20px;
+    margin-top: 26px;
     text-align: center;
 }
 
@@ -166,7 +167,7 @@ body {
 }
 
 .arrow-down {
-    margin-top: 50px;
+    margin-top: 40px;
 }
 
 @media (max-width: 768px) {
@@ -240,14 +241,14 @@ body {
     background-image: url(/images/desktop/image-transform.jpg );
     background-position: center;
     background-size: cover;
-    height: 100vh;
+    height: 80vh;
 }
 
 .right-grid-2 {
     background-image: url(/images/desktop/image-stand-out.jpg );
     background-position: center;
     background-size: cover;
-    height: 100vh;
+    height: 80vh;
 }
 
 .btn-2 {
@@ -314,7 +315,7 @@ body {
     background-image: url(/images/desktop/image-graphic-design.jpg);
     background-position: center;
     background-size: cover;
-    height: 100vh;
+    height: 80vh;
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
@@ -353,7 +354,7 @@ body {
     background-image: url(/images/desktop/image-photography.jpg);
     background-position: center;
     background-size: cover;
-    height: 100vh;
+    height: 80vh;
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
@@ -457,7 +458,7 @@ body {
 .four-grid-img div {
     background-position: center;
     background-size: cover;
-    height: 70vh;
+    height: 65vh;
 }
 
 .four-grid-img .four-first-grid-img {
@@ -511,7 +512,7 @@ body {
 .footer {
     background-color: rgb(144, 212, 197);
     /* or rgba(144, 212, 197, 1) */
-    padding: 60px 50px;
+    padding: 40px;
     display: flex;
     flex-direction: column;
     justify-content: center;
